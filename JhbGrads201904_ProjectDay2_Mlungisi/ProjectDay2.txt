@@ -1,0 +1,17 @@
+﻿Database,Table,Key Column,Key Value,Column,Value
+chinook,artists,ArtistId,2,Name,Accept
+chinook,albumsj,AlbumId,5,Title,Big Ones
+chinook,albums,AlbumId,5,Title,Little Ones
+,,,,,
+chinook,genres,GenreId,9,Name,Pop
+chinook,genres,GenreId,9,Name,xxxx
+chinook,media_types,MediaTypeId,5,Name,AAC audio file
+chinook,employees,EmployeeId,7,FirstName,Laura
+chinook,employees,EmployeeId,7,LastName,King
+chinook1,employees,EmployeeId,7,LastName,King
+chinook,xxxxxx,EmployeeId,7,LastName,King
+chinook,employees,EmployeeId,7,LastName,King
+chinook,xxxxxx,EmployeeId,7,LastName,King
+chinook,employees,xxxxx,99,LastName,King
+chinook,employees,EmployeeId,A,LastName,King
+chinook,employees,EmployeeId,7,xxxx,King
